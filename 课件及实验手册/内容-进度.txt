@@ -1,0 +1,119 @@
+
+云计算 上课记录
+
+
+第1周 (获得VM，理解 获取 计算、存储、网络 资源)
+课程安排；考试安排;  
+实验 VM购买
+注册购买虚拟机
+
+a. 如果发烧、感冒等直接给班主任请假，完成实验后mail提交即可；
+b. 因为人数众多，将周4，5的课程直接安排到周日下午； 可以选择宽敞的教室；
+c. 考试 采用开卷考试； 出勤20%，实验40%，期末40%； 显然出勤和实验不达标
+不能通过考试； 
+d. 意见和建议都可以mail liuzc@mail.xhu.edu.cn;
+   上课未完成的实验， 发送到我的邮箱。
+e. 因为机房电脑有限，最好自己带上笔记本；注册云主机；用自己的账号上网。
+   win10 手机共享上网；
+
+非常时期，我们共同配合，克服困难，共同完成云计算的学习；
+
+
+
+
+
+第2周（Linux基本操作； 会配置Service）
+Linux 基本命令
+实验
+Linux 命令练习
+Linux Service 配置
+是否补充Linux Shell编程
+
+
+
+第3周（熟悉OpenStackGui操作；根据OpenStack理解云计算基本概念）
+云计算基本概念；
+OpenStack基本操作；
+实验
+OpenStack GUI练习创建虚拟机
+
+
+
+第4周（理解OpenStack构建拓扑结构；完成OpenStack基本环境的配置）
+OpenStack 基本环境
+实验
+OpenStack 基础环境基本搭建
+
+
+第5周（理解KeyStone环境认证；完成KeyStone的配置）
+OpenStack 认证
+实验
+KeyStone 搭建
+
+
+第6周（理解Glance存储服务；完成Galance的配置）
+Glance 服务
+实验
+Glance 服务搭建
+
+
+第7周（理解Nova计算服务；完成Nova的配置）
+Nova 服务
+实验 
+Nova 服务搭建
+                 ---->  期中考试 综合测试； 
+
+第8周（理解Neutron计算服务；完成Neutron的配置）
+Neutron服务 
+实验
+Neutron服务构建
+
+
+第9周（理解OpenStack整个流程；完成Instance创建）
+OpenStack综合
+实验
+创建OpenStack虚拟机
+
+
+第10周（理解Swift存储；完成Swift创建）
+Swift服务
+实验
+Swift网盘构建
+
+
+第11周（Linux脚本编程, Shell Install Openstack）
+Linux脚本编程
+实验
+OpenStack自动安装与配置
+
+
+第12周（理解AI即服务；完成AIaaS创建）
+AI 九歌
+实验
+AIaaS服务构建
+
+
+
+
+第13周（理解Cinder存储； 编写Shell完成Cinder的创建）
+Cinder服务
+实验
+Cinder服务构建
+
+
+第14周 ？
+Git 搭建  
+实验
+GIt服务构建
+
+
+第15周 ？
+Docker or k8s
+
+第16周
+论文编写；OpenStack方案；云计算应用
+
+
+17周期末考试
+
+
